@@ -1,7 +1,8 @@
 # Módulo de Gestión de Empleados  
 **Evidencia GA7-220501096-AA2-EV01** – Aplicar estándares de codificación
 
-Este proyecto implementa un sistema de gestión de empleados con operaciones CRUD (Crear, Leer, Actualizar, Eliminar) utilizando **Java, JDBC y MySQL**, siguiendo buenas prácticas de desarrollo y estándares de codificación.
+Este proyecto implementa un módulo de gestión de empleados utilizando Java, JDBC y MySQL.
+Permite realizar operaciones CRUD (Crear, Leer, Actualizar, Eliminar) sobre la tabla empleado.
 
 ## Funcionalidades
 
@@ -47,7 +48,7 @@ src/
 ├── main/
 │   └── java/
 │       └── com.example/
-│           ├── App.java          # Menú interactivo
+│           ├── App.java         # Menú interactivo
 │           ├── dao/             # Capa de acceso a datos
 │           ├── model/           # Entidad Empleado
 │           └── util/            # Conexión a base de datos
@@ -56,8 +57,36 @@ pom.xml
 .gitignore
 README.md
 
-## Aprendiz 
+⚙️ Tecnologías utilizadas
 
-- **Monica Ismelia Cañas Reyes** 
-- [MonicaIsmelia](https://github.com/Monica-Ismelia) - *Perfil de GitHub*
+Java 17
+
+Maven
+
+JDBC (MySQL Connector/J)
+
+patrón DAO
+
+Dotenv para variables de entorno
+
+📚 Estándares aplicados
+
+Organización por paquetes: model, dao, util
+
+Clases en PascalCase
+
+Variables y métodos en camelCase
+
+Uso de DAO
+
+Separación de lógica y acceso a datos
+
+🧑‍💻 Autor
+
+Mónica Ismelia Cañas Reyes — SENA
+📦 Actividad GA7-220501096-AA2 – Codificación de módulos
+
+📌 Repositorio
+
+https://github.com/Monica-Ismelia/GA7-220501096-AA2-CRUD-Empleados
 
