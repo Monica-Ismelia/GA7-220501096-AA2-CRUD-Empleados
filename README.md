@@ -50,7 +50,6 @@ mvn exec:exec -Dexec.executable="java" -Dexec.args="-cp %classpath com.example.A
 
 
 📁 Estructura del proyecto
-
 src/
 ├── main/
 │   └── java/
@@ -60,7 +59,7 @@ src/
 │           ├── model/           # Entidad Empleado
 │           └── util/            # Conexión a base de datos
 pom.xml
-.env                # (no subido a Git)
+.env
 .gitignore
 README.md
 
