@@ -1,4 +1,4 @@
-1. # Módulo de Gestión de Empleados  
+# Módulo de Gestión de Empleados  
 **Evidencia GA7-220501096-AA2-EV01** – Aplicar estándares de codificación
 
 Este proyecto implementa un sistema de gestión de empleados con operaciones CRUD (Crear, Leer, Actualizar, Eliminar) utilizando **Java, JDBC y MySQL**, siguiendo buenas prácticas de desarrollo y estándares de codificación.
