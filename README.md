@@ -52,12 +52,9 @@ src/
 │           ├── model/           # Entidad Empleado
 │           └── util/            # Conexión a base de datos
 pom.xml
-.env
+.env                # (no subido a Git)
 .gitignore
 README.md
-
-
-![alt text](image.png)
 
 ## Aprendiz 
 
